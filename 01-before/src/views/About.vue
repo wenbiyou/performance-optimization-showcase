@@ -46,7 +46,7 @@
               <td>89</td>
               <td>+ 47 分</td>
             </tr>
-          </thead>
+          </tbody>
         </table>
       </div>
     </main>
